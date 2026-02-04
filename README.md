@@ -22,11 +22,19 @@ Quick availability overview of all currently indexed datasets:
 ![DataSet%2011](https://img.shields.io/badge/DataSet%2011-~27.5%20GB%20%7C%20Available-brightgreen?style=for-the-badge)
 ![DataSet%2012](https://img.shields.io/badge/DataSet%2012-114.1%20MB%20%7C%20Available-brightgreen?style=for-the-badge)
 
----
+---kdu
 
 This repository is a community **mirror + indexing project** for the **Jan 30, 2026** Epstein Files data release published by the **U.S. Department of Justice**.
 
 The original release is distributed across many separate `.zip` archives. Community archivists have since produced **torrent magnets** and **Internet Archive mirrors** to make the data easier to preserve, resume, verify, and distribute long-term.
+## Scope & Non-Affiliation
+
+This repository is an independent, community-maintained index of publicly available materials.
+It is not affiliated with, endorsed by, or operated by the U.S. Department of Justice or any
+other government entity.
+
+No files are hosted by this repository. It references publicly accessible mirrors, torrents,
+and archives for preservation and verification purposes only.
 
 **Goal:** provide a stable public index of download methods (DOJ + torrent + mirrors), especially if links break, files disappear, or servers throttle/cut off transfers.  
 **How to help:** seed torrents, mirror responsibly, and verify hashes when provided.
