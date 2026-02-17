@@ -39,8 +39,6 @@ and archives for preservation and verification purposes only.
 **Goal:** provide a stable public index of download methods (DOJ + torrent + mirrors), especially if links break, files disappear, or servers throttle/cut off transfers.  
 **How to help:** seed torrents, mirror responsibly, and verify hashes when provided.
 
-**Initial Inspiration (DataHoarder):**  
-https://old.reddit.com/r/DataHoarder/comments/1qrk3qk/epstein_files_datasets_9_10_11_300_gb_lets_keep/
 
 ```text
 https://old.reddit.com/r/DataHoarder/comments/1qrk3qk/epstein_files_datasets_9_10_11_300_gb_lets_keep/
