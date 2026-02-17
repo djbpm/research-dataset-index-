@@ -40,9 +40,7 @@ and archives for preservation and verification purposes only.
 **How to help:** seed torrents, mirror responsibly, and verify hashes when provided.
 
 
-```text
-https://old.reddit.com/r/DataHoarder/comments/1qrk3qk/epstein_files_datasets_9_10_11_300_gb_lets_keep/
-````
+```
 
 ---
 
